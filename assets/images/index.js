@@ -135,4 +135,8 @@ export { default as background } from './17.jpg';{
  2. boots of speed, bladimir
  3. power treads, heal of dominator, necromonicon
  4. assult cuirass, dsolator, black king bar
- 
+ -Tiny
+ 1. tango, healing salve, mango, iron branch, iron branch
+ 2. magic stick, boots of speed, 
+ 3. magic wand, power treds, echo sabre
+ 4. blink dagger, shadow blade, assult cuirass, daedalus
