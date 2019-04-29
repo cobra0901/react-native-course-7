@@ -111,9 +111,28 @@ export { default as background } from './17.jpg';{
     }
 }
 -kunkka
- 1. tango, shout sheld, iron branch, gauntles of strength.
+ 1. tango, stout shield, iron branch, gauntles of strength.
  2. bottle, boot of speed, magic stick, bracer
  3. phase boots, magic wand, drum of edurance, shadow blade
  4. Daedalus, black king bar
--
+-Legion
+ 1. tango, healing salve, stout shield, iron branch, iron branch
+ 2. boot of speed, magic stick, ring of balius
+ 3. power trades, magic wand, blink dagger, blade mail
+ 4. Mjollnir, assult cuirass
+-Gracopter
+ 1. tango, healing salve, circlet, slippers of agility, clarity
+ 2. boot of speed, magic stick, ring of aquilia, 
+ 3. phase of boots, sange and yasha, dragon lance
+ 4. black king bar, monkey king bar, butterfly
+-Axe
+ 1. tango, tango, stout shield, iron branch, iron branch
+ 2. tranquil boots, Magic stick, ring of health
+ 3. blink dagger, vanguard
+ 4. blade mail, crimson guard, heart of tarrasque
+-lycan
+ 1. tango, healing salve, iron branch, stout shield
+ 2. boots of speed, bladimir
+ 3. power treads, heal of dominator, necromonicon
+ 4. assult cuirass, dsolator, black king bar
  
